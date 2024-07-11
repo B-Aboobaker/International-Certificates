@@ -1,6 +1,8 @@
 # International Certificates
 Repository showcasing my collection of International Certificates
 
+<img src="assets/images/AboobakerInternationalCertificatesOverview.png" alt="Aboobaker International Certificates Overview">
+
 ## Context
 This repository contains all my international certificates, highlighting my achievements and qualifications
 
