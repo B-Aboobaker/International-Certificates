@@ -10,6 +10,7 @@ This repository contains all my international certificates, highlighting my achi
 - [International Certificates](#international-certificates)
 - [Context](#context)
 - [Table of Contents](#table-of-contents)
+- [Microsoft Certified: Azure AI Engineer Associate - (AI-102)](#microsoft-certified-azure-ai-engineer-associate---ai-102)
 - [Microsoft Certified: Azure Database Administrator Associate - (DP-300)](#microsoft-certified-azure-database-administrator-associate---dp-300)
 - [Foundational C# with Microsoft](#foundational-c-with-microsoft)
 - [Microsoft Certified: DevOps Engineer Expert - (AZ-400)](#microsoft-certified-devops-engineer-expert---az-400)
@@ -21,6 +22,22 @@ This repository contains all my international certificates, highlighting my achi
 - [ITS: HTML and CSS - (98-383)](#its-html-and-css---98-383)
 - [Microsoft Certified: Azure Data Fundamentals - (DP-900)](#microsoft-certified-azure-data-fundamentals---dp-900)
 - [MTA: Introduction to Programming using Python (98-381)](#mta-introduction-to-programming-using-python-98-381)
+
+
+## Microsoft Certified: Azure AI Engineer Associate - (AI-102)
+### Date Obtained: <br/>
+31 October 2024
+
+### Skillset Description:
+- Plan and manage an Azure AI solution
+- Implement content moderation solutions
+- Implement computer vision solutions
+- Implement natural language processing solutions
+- Implement knowledge mining and document intelligence solutions
+- Implement generative AI solutions
+
+### Score: <br/>
+88%
 
 
 ## Microsoft Certified: Azure Database Administrator Associate - (DP-300)
