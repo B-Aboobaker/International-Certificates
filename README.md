@@ -10,6 +10,7 @@ This repository contains all my international certificates, highlighting my achi
 - [International Certificates](#international-certificates)
 - [Context](#context)
 - [Table of Contents](#table-of-contents)
+- [Linux Professional Institute Certified: Linux Essentials - (010-160))](#linux-professional-institute-certified-linux-essentials---010-160)
 - [Microsoft Certified: Azure AI Engineer Associate - (AI-102)](#microsoft-certified-azure-ai-engineer-associate---ai-102)
 - [Microsoft Certified: Azure Database Administrator Associate - (DP-300)](#microsoft-certified-azure-database-administrator-associate---dp-300)
 - [Foundational C# with Microsoft](#foundational-c-with-microsoft)
@@ -22,6 +23,21 @@ This repository contains all my international certificates, highlighting my achi
 - [ITS: HTML and CSS - (98-383)](#its-html-and-css---98-383)
 - [Microsoft Certified: Azure Data Fundamentals - (DP-900)](#microsoft-certified-azure-data-fundamentals---dp-900)
 - [MTA: Introduction to Programming using Python (98-381)](#mta-introduction-to-programming-using-python-98-381)
+
+
+## Linux Professional Institute Certified: Linux Essentials - (010-160)
+### Date Obtained: <br/>
+13 January 2025
+
+### Skillset Description:
+- The Linux Community and a Career in Open Source
+- Finding Your Way on a Linux System
+- The Power of the Command Line
+- The Linux Operating System
+- Security and File Permissions
+
+### Score: <br/>
+98%
 
 
 ## Microsoft Certified: Azure AI Engineer Associate - (AI-102)
