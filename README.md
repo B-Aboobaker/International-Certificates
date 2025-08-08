@@ -10,7 +10,8 @@ This repository contains all my international certificates, highlighting my achi
 - [International Certificates](#international-certificates)
 - [Context](#context)
 - [Table of Contents](#table-of-contents)
-- [Linux Professional Institute Certified: Linux Essentials - (010-160))](#linux-professional-institute-certified-linux-essentials---010-160)
+- [Linux Professional Institute Certified: LPIC-1 Linux Administrator - (101-500 & 102-500)](#linux-professional-institute-certified-lpic-1-linux-administrator---101-500--102-500)
+- [Linux Professional Institute Certified: Linux Essentials - (010-160)](#linux-professional-institute-certified-linux-essentials---010-160)
 - [Microsoft Certified: Azure AI Engineer Associate - (AI-102)](#microsoft-certified-azure-ai-engineer-associate---ai-102)
 - [Microsoft Certified: Azure Database Administrator Associate - (DP-300)](#microsoft-certified-azure-database-administrator-associate---dp-300)
 - [Foundational C# with Microsoft](#foundational-c-with-microsoft)
@@ -23,6 +24,39 @@ This repository contains all my international certificates, highlighting my achi
 - [ITS: HTML and CSS - (98-383)](#its-html-and-css---98-383)
 - [Microsoft Certified: Azure Data Fundamentals - (DP-900)](#microsoft-certified-azure-data-fundamentals---dp-900)
 - [MTA: Introduction to Programming using Python (98-381)](#mta-introduction-to-programming-using-python-98-381)
+
+
+## Linux Professional Institute Certified: LPIC-1 Linux Administrator - (101-500 & 102-500)
+## 101-500
+### Date Obtained: <br/>
+22 April 2025
+
+### Skillset Description:
+- System Architecture
+- Linux Installation and Package Management
+- GNU and Unix Commands
+- Devices, Linux Filesystems, Filesystem Hierarchy Standard
+
+### Score: <br/>
+89%
+
+## 102-500
+### Date Obtained: <br/>
+07 August 2025
+
+### Skillset Description:
+- Shells and Shell Scripting
+- User Interfaces and Desktops
+- Administrative Tasks
+- Essential System Services
+- Networking Fundamentals
+- Security
+
+### Score: <br/>
+88%
+
+### LPIC-1 Overall Score: <br/>
+89%
 
 
 ## Linux Professional Institute Certified: Linux Essentials - (010-160)
