@@ -10,6 +10,7 @@ This repository contains all my international certificates, highlighting my achi
 - [International Certificates](#international-certificates)
 - [Context](#context)
 - [Table of Contents](#table-of-contents)
+- [Linux Professional Institute Certified: LPIC-2 Linux Engineer - (201-450 & 202-450)](#linux-professional-institute-certified-lpic-2-linux-engineer---201-450--202-450)
 - [Linux Professional Institute Certified: LPIC-1 Linux Administrator - (101-500 & 102-500)](#linux-professional-institute-certified-lpic-1-linux-administrator---101-500--102-500)
 - [Linux Professional Institute Certified: Linux Essentials - (010-160)](#linux-professional-institute-certified-linux-essentials---010-160)
 - [Microsoft Certified: Azure AI Engineer Associate - (AI-102)](#microsoft-certified-azure-ai-engineer-associate---ai-102)
@@ -24,6 +25,42 @@ This repository contains all my international certificates, highlighting my achi
 - [ITS: HTML and CSS - (98-383)](#its-html-and-css---98-383)
 - [Microsoft Certified: Azure Data Fundamentals - (DP-900)](#microsoft-certified-azure-data-fundamentals---dp-900)
 - [MTA: Introduction to Programming using Python (98-381)](#mta-introduction-to-programming-using-python-98-381)
+
+
+## Linux Professional Institute Certified: LPIC-2 Linux Engineer - (201-450 & 202-450)
+## 201-450
+### Date Obtained: <br/>
+24 October 2025
+
+### Skillset Description:
+- Capacity Planning
+- Linux Kernel
+- System Startup
+- Filesystem and Devices
+- Advanced Storage Device Administration
+- Networking Configuration
+- System Maintenance
+
+### Score: <br/>
+88%
+
+## 202-450
+### Date Obtained: <br/>
+09 February 2026
+
+### Skillset Description:
+- Domain Name Server
+- HTTP Services
+- File Sharing
+- Network Client Management
+- E-Mail Services
+- System Security
+
+### Score: <br/>
+92%
+
+### LPIC-2 Overall Score: <br/>
+90%
 
 
 ## Linux Professional Institute Certified: LPIC-1 Linux Administrator - (101-500 & 102-500)
